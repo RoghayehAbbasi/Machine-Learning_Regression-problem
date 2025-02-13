@@ -2,7 +2,7 @@
 the task is to predict a momentary self-reported well being score that was measured while people were playing a video game designed to lower stress and improve mental health.
 Data files
 
-# The dataset is available for download on Canvas. It contains the following files:
+# The dataset contains the following files:
 train_data.csv
 test_data.csv
 supplimental_data.csv
